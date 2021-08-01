@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="90346" started-at="2021-07-29T13:23:18Z" finished-at="2021-07-29T13:24:49Z">
+    <groups>
+    </groups>
+    <test name="testngexamplsuite" duration-ms="90346" started-at="2021-07-29T13:23:18Z" finished-at="2021-07-29T13:24:49Z">
+      <class name="testngpack.Exampl1">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="openbrowser" is-config="true" duration-ms="14" started-at="2021-07-29T13:23:18Z" finished-at="2021-07-29T13:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="TestStart()[pri:0, instance:testngpack.TestNgexampl2@28feb3fa]" name="TestStart" is-config="true" duration-ms="0" started-at="2021-07-29T13:23:18Z" finished-at="2021-07-29T13:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStart -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="login" duration-ms="7" started-at="2021-07-29T13:23:18Z" finished-at="2021-07-29T13:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="beforemethod" is-config="true" duration-ms="0" started-at="2021-07-29T13:23:18Z" finished-at="2021-07-29T13:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2021-07-29T13:23:18Z" finished-at="2021-07-29T13:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-07-29T13:24:49Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="inbox()[pri:1, instance:testngpack.Exampl1@68be2bc2]" name="inbox" duration-ms="1" started-at="2021-07-29T13:24:49Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inbox -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="Aftermethod" is-config="true" duration-ms="1" started-at="2021-07-29T13:24:49Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-07-29T13:24:49Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="cemail()[pri:2, instance:testngpack.Exampl1@68be2bc2]" name="cemail" duration-ms="1" started-at="2021-07-29T13:24:49Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cemail -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="Aftermethod" is-config="true" duration-ms="3" started-at="2021-07-29T13:24:49Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testngpack.Exampl1@68be2bc2]" name="closebrowser" is-config="true" duration-ms="0" started-at="2021-07-29T13:24:49Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="endtest()[pri:0, instance:testngpack.TestNgexampl2@28feb3fa]" name="endtest" is-config="true" duration-ms="1" started-at="2021-07-29T13:24:49Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- testngpack.Exampl1 -->
+      <class name="testngpack.TestNgexampl2">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:testngpack.TestNgexampl2@28feb3fa]" name="openbrowser" is-config="true" duration-ms="8073" started-at="2021-07-29T13:23:18Z" finished-at="2021-07-29T13:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="amaz()[pri:0, instance:testngpack.TestNgexampl2@28feb3fa]" name="amaz" duration-ms="2975" started-at="2021-07-29T13:23:26Z" finished-at="2021-07-29T13:23:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amaz -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testngpack.TestNgexampl2@28feb3fa]" name="closebrowser" is-config="true" duration-ms="2330" started-at="2021-07-29T13:23:29Z" finished-at="2021-07-29T13:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:testngpack.TestNgexampl2@28feb3fa]" name="openbrowser" is-config="true" duration-ms="6426" started-at="2021-07-29T13:23:32Z" finished-at="2021-07-29T13:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="fb()[pri:0, instance:testngpack.TestNgexampl2@28feb3fa]" name="fb" duration-ms="2622" started-at="2021-07-29T13:23:38Z" finished-at="2021-07-29T13:23:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fb -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testngpack.TestNgexampl2@28feb3fa]" name="closebrowser" is-config="true" duration-ms="67839" started-at="2021-07-29T13:23:41Z" finished-at="2021-07-29T13:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testngpack.TestNgexampl2 -->
+    </test> <!-- testngexamplsuite -->
+  </suite> <!-- Suite1 -->
+</testng-results>
